@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 osrf/ros:melodic-desktop-full
 nvidia/cuda:11.3.1-devel-ubuntu20.04
+ghcr.io/open-webui/open-webui:ollama
