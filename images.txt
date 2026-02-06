@@ -10,6 +10,7 @@
 # ghcr.io/open-webui/open-webui:ollama
 # ghcr.io/open-webui/open-webui:ollama
 # colmap/colmap:latest
+colmap/colmap:20241206.1709
 # nvidia/cuda:12.2.2-devel-ubuntu22.04
-nvidia/cuda:12.2.2-runtime-ubuntu22.04
+# nvidia/cuda:12.2.2-runtime-ubuntu22.04
 
